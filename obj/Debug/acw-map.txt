@@ -1,0 +1,4 @@
+XamarinYoutube.MainActivity, XamarinYoutube;md5267c999bddef504ee9c41902f25b32c0.MainActivity
+XamarinYoutube.MainActivity, XamarinYoutube, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5267c999bddef504ee9c41902f25b32c0.MainActivity
+XamarinYoutube.MainActivity;md5267c999bddef504ee9c41902f25b32c0.MainActivity
+xamarinyoutube.MainActivity;md5267c999bddef504ee9c41902f25b32c0.MainActivity
